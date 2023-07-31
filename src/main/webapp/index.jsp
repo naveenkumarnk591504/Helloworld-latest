@@ -6,7 +6,7 @@
 <title>Welcome to HDFC BANK</title>
 <style>
   body {
-    background-color: blue;
+    background-color: green;
   }
 </style>
 </head>
